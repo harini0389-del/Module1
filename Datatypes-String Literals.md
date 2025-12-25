@@ -9,9 +9,11 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 🧾 Program
+
 <img width="592" height="261" alt="image" src="https://github.com/user-attachments/assets/b2321b1a-6210-4820-ba95-aba69d07ffc5" />
 
 Output
+
 <img width="862" height="411" alt="image" src="https://github.com/user-attachments/assets/965e2ae7-4cdb-4763-bd00-ccd4b639009e" />
 
 Result
